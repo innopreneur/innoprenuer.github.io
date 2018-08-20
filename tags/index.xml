@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Portfolio</title>
+    <link>https://innoprenuer.github.io/tags/</link>
+    <description>Recent content in Tags on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 11:25:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://innoprenuer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://innoprenuer.github.io/tags/javascript/</link>
+      <pubDate>Mon, 20 Aug 2018 11:25:33 +0200</pubDate>
+      
+      <guid>https://innoprenuer.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>https://innoprenuer.github.io/tags/nodejs/</link>
+      <pubDate>Mon, 20 Aug 2018 11:25:33 +0200</pubDate>
+      
+      <guid>https://innoprenuer.github.io/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>https://innoprenuer.github.io/tags/react-native/</link>
+      <pubDate>Mon, 20 Aug 2018 11:25:33 +0200</pubDate>
+      
+      <guid>https://innoprenuer.github.io/tags/react-native/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
